@@ -1,0 +1,1 @@
+// Vuelvo a poner el index.js para simular una web dinámica jejox
